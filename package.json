@@ -9,7 +9,7 @@
   "author": "max ogden",
   "license": "ISC",
   "dependencies": {
-    "bittorrent-dht": "^7.10.0",
+    "bittorrent-dht": "^8.4.0",
     "buffer-from": "^1.0.0",
     "debug": "^2.6.9",
     "dns-discovery": "^6.0.1",
